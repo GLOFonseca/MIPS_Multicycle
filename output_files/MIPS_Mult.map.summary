@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Wed Nov 15 15:38:30 2017
+Quartus II 64-Bit Version : 13.0.1 Build 232 06/12/2013 SP 1 SJ Web Edition
+Revision Name : MIPS_Mult
+Top-level Entity Name : ControlBlock
+Family : Cyclone II
+Total logic elements : 20
+    Total combinational functions : 18
+    Dedicated logic registers : 10
+Total registers : 10
+Total pins : 23
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0
